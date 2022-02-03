@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "name": "coba",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "id": 1,
+                "t_sekolah": "MAN NGABANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109.95593383212011, 0.378973309840852]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "t_sekolah": "SMA NEGERI 3 NGABANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109.970138751329344, 0.389716470720396]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "t_sekolah": "SMAN 1 NGABANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109.956699994682765, 0.388085124126045]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 4,
+                "t_sekolah": "SMAN 2 NGABANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109.852947502658594, 0.390553379383271]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "t_sekolah": "SMAS ARASTAMAR NGABANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109.989992275256839, 0.380609967234559]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 6,
+                "t_sekolah": "SMAS MAKEDONIA NGABANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109.854196178527147, 0.385831808243084]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 7,
+                "t_sekolah": "SMAS MANIAMAS NGABANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109.953507054191817, 0.386820777541551]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8,
+                "t_sekolah": "SMAS PELITA NGABANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109.956454746012071, 0.386298843095967]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9,
+                "t_sekolah": "SMAS SANTO THOMAS NGABANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109.974454492024165, 0.383314136052009]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 10,
+                "t_sekolah": "SMAS TAKHASSUS AL QURAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109.969025805521127, 0.383843215489789]
+            }
+        }
+    ]
+}
